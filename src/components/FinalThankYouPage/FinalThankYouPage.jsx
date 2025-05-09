@@ -12,7 +12,7 @@ const FinalThankYouPage = () => {
       </h1>
 
       {/* Encouraging CTA */}
-      <button className="bg-green-600 text-white font-bold font-montserrat text-lg py-4 px-8 rounded-full transition-all duration-300 ease-in-out transform hover:bg-green-700 active:scale-95">
+      <button className="bg-green-600 text-white font-bold font-montserrat text-lg py-4 px-4 rounded-full transition-all duration-300 ease-in-out transform hover:bg-green-700 active:scale-95">
         Comece agora e comece a ganhar!
       </button>
 
