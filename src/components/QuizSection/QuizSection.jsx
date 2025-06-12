@@ -4,7 +4,7 @@ import React, { useEffect, useRef, useState } from "react";
 
 import logoDark from "../../assets/logo-dark.svg";
 import logo from "../../assets/logo.svg";
-import referral from "../../assets/referral.png";
+import referral from "../../assets/referral.webp";
 import telegram from "../../assets/telegram.svg";
 import FinalThankYouPage from "../../components/FinalThankYouPage/FinalThankYouPage";
 import MLMEarningsSimulator from "../../components/MLMEarningsSimulator/MLMEarningsSimulator";

@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 
 const earningsData = {
-  2: 4.95,
-  5: 9.95,
-  10: 19.95,
-  20: 39.95,
+  2: '477',
+  5: '1 192',
+  10: '2 385',
+  20: '4 771',
 };
 
 const validRecruits = [2, 5, 10, 20];
